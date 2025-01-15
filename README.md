@@ -25,3 +25,21 @@ At the heart of the EcoClean Navigator is a giant, high-capacity trash compartme
 Supporting environmental restoration projects.
 Managing waste in recreational water bodies and coastal areas.
 
+
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/1.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/2.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/3.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/4.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/5.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/6.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/7.jpg?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/8.jpg?raw=true)
+
+# MAINCODE
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/Untitled1.png?raw=true)
+![demo](https://github.com/picard587/EcoClean-Navigator/blob/main/Untitled2.png?raw=true)
+
+
+
+
+
